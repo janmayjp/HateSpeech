@@ -57,17 +57,6 @@ Results show systematic over-classification of identity-related content, particu
 - Bias patterns are consistent across all tested architectures  
 - Explainability methods are essential for diagnosing unfair behavior  
 
-## Repository Structure
-```
-├── data/
-├── models/
-├── training/
-├── explainability/
-├── fairness/
-├── results/
-└── README.md
-```
-
 ## Requirements
 - Python 3.8+
 - PyTorch
